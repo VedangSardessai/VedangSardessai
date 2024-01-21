@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**VedangSardessai/VedangSardessai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I am Vedang Sardessai 👋
 
-Here are some ideas to get you started:
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VedangSardessai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Full Stack Developer experienced with building seamless web and mobile applications.
+
+![Banner](https://firebasestorage.googleapis.com/v0/b/imagestorages-c1fe2.appspot.com/o/banner.png?alt=media&token=2ef029c5-5625-4c86-b67d-4e5aa6126ac5)
+
+
+## Let's Connect:
+You've got an awesome idea ? Let's team up and make it happen!
+[Checkout my Portfolio 🔥](https://vedangsardessai.com)
+
+[![alt text][1.1]][1]		
+[![alt text][2.1]][2]	
+[![alt text][3.1]](mailto:vedangsardessai@gmail.com)
+
+[1.1]: https://firebasestorage.googleapis.com/v0/b/imagestorages-c1fe2.appspot.com/o/Github%2Fx.png?alt=media&token=c02d9b9f-cd15-4974-9ce6-e801d590e5d5 
+[2.1]: https://firebasestorage.googleapis.com/v0/b/imagestorages-c1fe2.appspot.com/o/Github%2FlinkedinLogo.png?alt=media&token=d45a5688-83ce-4875-bed9-2a944b1988c9
+[3.1]: https://firebasestorage.googleapis.com/v0/b/imagestorages-c1fe2.appspot.com/o/Github%2FgmailLogo.png?alt=media&token=4a021bee-4ff2-4582-b46e-5505339e41d7
+
+<!-- links to your social media accounts -->
+
+
+[1]: https://www.twitter.com/SardessaiVedang
+[2]: https://linkedin.com/in/vedangsardessai
+[3]: (mailto:vedangsardessai@gmail.com)
+[4]: https://vedangsardessai.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
