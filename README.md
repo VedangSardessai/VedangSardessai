@@ -16,7 +16,7 @@ You've got an awesome idea ? Let's team up and make it happen!
 [![alt text][2.1]][2]	
 [![alt text][3.1]](mailto:vedangsardessai@gmail.com)
 
-[1.1]: https://firebasestorage.googleapis.com/v0/b/imagestorages-c1fe2.appspot.com/o/Github%2Fx.png?alt=media&token=c02d9b9f-cd15-4974-9ce6-e801d590e5d5 
+[1.1]: https://firebasestorage.googleapis.com/v0/b/imagestorages-c1fe2.appspot.com/o/Github%2Fx.jpg?alt=media&token=db752849-5a86-4d66-b43e-d59bf8403904
 [2.1]: https://firebasestorage.googleapis.com/v0/b/imagestorages-c1fe2.appspot.com/o/Github%2FlinkedinLogo.png?alt=media&token=d45a5688-83ce-4875-bed9-2a944b1988c9
 [3.1]: https://firebasestorage.googleapis.com/v0/b/imagestorages-c1fe2.appspot.com/o/Github%2FgmailLogo.png?alt=media&token=4a021bee-4ff2-4582-b46e-5505339e41d7
 
@@ -29,5 +29,3 @@ You've got an awesome idea ? Let's team up and make it happen!
 [4]: https://vedangsardessai.com
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
